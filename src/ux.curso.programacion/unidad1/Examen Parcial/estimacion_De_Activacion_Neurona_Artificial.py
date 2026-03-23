@@ -4,7 +4,7 @@ def neurona():
 
     Z = w * x
 
-    print(f"El valor de activación Z es: {Z}" )
+    print(f"El valor de activación Z es: {Z}" ) 
 
 
 def main():
