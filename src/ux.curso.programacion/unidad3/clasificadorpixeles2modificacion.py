@@ -85,5 +85,5 @@ def main():
     cargar_y_procesar("lecturas_sensores.txt")
 
 
-if __name__ == "__main__":  
+if __name__ == "__main__":   
     main()
