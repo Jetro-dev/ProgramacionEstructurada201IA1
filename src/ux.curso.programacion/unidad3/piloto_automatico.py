@@ -19,13 +19,13 @@ def piloto_automatico():
             print("Estado: En movimiento. Todo despejado para avanzar.")
 
     else:
-        print("Error de lectura en sensores: Color de semáforo no reconocido.")
+        print("Error de lectura en sensores: Color de semáforo no reconocido.") 
 
     print("Monitoreo de sensores constante... Sistema activo.")
 
 
 def main():
-    piloto_automatico()
+    piloto_automatico() 
 
 
 if __name__ == "__main__":
