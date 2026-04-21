@@ -12,7 +12,7 @@ def division(dividendo, divisor):
     return f"Cociente = {cociente}, Resto = {resto}"
 
 
-dividendo = int(input("Ingrese el dividendo: "))
+dividendo = int(input("Ingrese el dividendo: ")) 
 divisor = int(input("Ingrese el divisor: "))
 
 
